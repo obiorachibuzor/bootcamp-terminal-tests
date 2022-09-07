@@ -1,17 +1,33 @@
 {
-  "name": "bootcamp-terminal-tests",
+  "name": "",
   "version": "1.0.0",
-  "description": "'bootcamp command line testing using mocha'",
-  "main": "functions.js",
-  "directories": {
-    "test": "test"
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
   },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
   "scripts": {
+    "dev": "",
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "mocha": "^10.0.0"
   }
 }
